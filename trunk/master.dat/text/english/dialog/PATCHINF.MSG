@@ -1,0 +1,4 @@
+###.Magnat.###...Added by Killap. Translated by Aliet (LevCorp-like). Need revision...########################
+{100}{}{Вы запустили killap's Fallout 2 Restoration Project. Version 2.1.2b. Спасибо за установку!}
+{101}{}{Вы запустили killap's Fallout 2 Restoration Project. Version 2.1.2b. Спасибо за установку!}
+

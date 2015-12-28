@@ -1,0 +1,3 @@
+###.Magnat.###...Added by Killap. Translated by Aliet (LevCorp-like). Need revision...########################
+{100}{}{В воздухе еле слышно гудение, как-будто магнитное поле где-то рядом.}
+

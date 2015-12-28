@@ -1,0 +1,10 @@
+
+
+###.Magnat.###...Added by 1C. May be: a)for female characters (require proper scripts); or b) absent in English version...########################
+#
+#   Interface text from INTFACE.C
+{100}{}{яйпшрм.}
+{101}{}{спнбемэ}
+{102}{}{гюбхяхлнярэ}
+{103}{}{нрпюбкемхе}
+{104}{}{ксвебюъ анкегмэ}

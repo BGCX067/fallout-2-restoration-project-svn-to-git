@@ -1,0 +1,23 @@
+#labels Featured,Phase-Requirements
+=Задачи проекта=
+----
+<b>24.01.2011</b>
+===Виды файлов===
+Все текстовые файлы .msg, расположенные в хранилище, делятся на три разновидности:
+<ul>
+<li><b>[http://code.google.com/p/fallout-2-restoration-project/wiki/FilesEn En]</b> — файлы, привнесенные в игру патчем Killap'а и поэтому полностью английские</li>
+<li><b>[http://code.google.com/p/fallout-2-restoration-project/wiki/FilesRu Ru]</b> — файлы на русском языке, переведенные 1С, и не затрагиваемые в патче Killap'а</li>
+<li><b>[http://code.google.com/p/fallout-2-restoration-project/wiki/FilesEnRu EnRu]</b> — файлы, имена которых совпадают в патче Killap'а и официальной локализации от 1С</li>
+</ul>
+
+===Количество файлов===
+.\Text\English\Dialog\
+||En ||Ru||!EnRu||Total||
+||225||285||517||1027||
+
+===Решения===
+<ul>
+<li><b>[http://code.google.com/p/fallout-2-restoration-project/wiki/FilesEn En]</b> — естественно, перевести</li>
+<li><b>[http://code.google.com/p/fallout-2-restoration-project/wiki/FilesRu Ru]</b> — оставить без изменений</li>
+<li><b>[http://code.google.com/p/fallout-2-restoration-project/wiki/FilesEnRu EnRu]</b> — возможны варианты. Часть английских файлов этой категории содержит такое же количество строк, что и в русских. Возможны смысловые отличия. Другая часть английских файлов содержит большее количество строк, чем одноименные русские файлы. Используя специфическую текстовую утилиту, можно в автоматическом режиме добавить в русские файлы только те английские строки, которые отсутствуют в версии от 1С.  Потом уже перевести только эти строки.</li>
+</ul>

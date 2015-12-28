@@ -1,0 +1,3 @@
+###.Magnat.###...Added by Killap. Translated by Aliet (LevCorp-like). Need revision...########################
+{100}{}{Вы не видите способа открыть дверь.}
+

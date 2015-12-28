@@ -1,0 +1,5 @@
+###.Magnat.###...Added by Killap. Translated by Aliet (LevCorp-like). Need revision...########################
+{100}{}{Вы зарядили динамит.}
+{101}{}{Вы разрядили динамит.}
+
+
